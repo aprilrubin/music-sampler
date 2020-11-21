@@ -1,0 +1,30 @@
+h1 {
+  font-family: 'Changa', 'Arial', sans-serif;
+  background: #095b5b;
+  padding: 1rem;
+}
+
+h2 {
+  font-family: 'Changa', 'Arial', sans-serif;
+}
+
+body {
+  font-family: 'Playfair Display', 'Times New Roman', serif;
+  background: #008080;
+  color: #fff;
+  margin: 0;
+}
+
+footer {
+  background: #095b5b;
+  padding: 1rem;
+}
+
+a {
+  color: #C0C0C0;
+}
+
+a:hover {
+    color: #f4cdb7;
+    text-decoration: none;
+}
